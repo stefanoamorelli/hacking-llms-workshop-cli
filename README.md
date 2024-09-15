@@ -12,6 +12,14 @@ To install this CLI tool, run the following command in your terminal:
 pip install -r requirements.txt
 ```
 
+#### 🖥️ Usage
+
+To run the CLI tool, use the following command:
+
+```bash
+python main.py
+```
+
 #### 📚 Additional Resources
 
 - [OWASP Tallinn](https://owasp.ee/) - Learn more about our OWASP Chapter.
