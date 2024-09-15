@@ -1,6 +1,6 @@
 ## 🚀 Overview
 
-This is a CLI tool for the **Hacking LLMs Workshop**. It provides a simple command-line interface for interacting with a vulnerable LLM in a controlled remote environment.
+This is a simple python script for the **Hacking LLMs Workshop**. It provides a simple command-line interface for interacting with a vulnerable LLM in a controlled remote environment.
 
 ## ⚙️ Installation
 
