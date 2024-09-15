@@ -20,7 +20,7 @@ To run the CLI tool, use the following command:
 python main.py
 ```
 
-### 📚 Additional Resources
+#### 📚 Additional Resources
 
 - [OWASP Tallinn](https://owasp.ee/) - Learn more about our OWASP Chapter.
 - [OWASP Main Page](https://owasp.org/)
